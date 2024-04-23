@@ -1,7 +1,6 @@
 ![Maven Central](https://img.shields.io/maven-central/v/com.theokanning.openai-gpt3-java/client?color=blue)
 
-> ⚠️OpenAI has deprecated all Engine-based APIs. See [Deprecated Endpoints](https://github.com/TheoKanning/openai-java#deprecated-endpoints) below for more info.
-# OpenAI-Java
+⚠️OpenAI已弃用所有基于引擎的API。请参阅下方的[废弃端点](https://github.com/TheoKanning/openai-java#deprecated-endpoints)以获取更多信息。
 
 Java库，用于使用OpenAI的GPT API。支持GPT-3、ChatGPT和GPT-4。
 
